@@ -1,0 +1,7 @@
+{
+  "name": "vibe - AI health Tracker",
+  "description": "An aesthetic, nature-inspired AI calorie tracker with food recognition and monthly health insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
